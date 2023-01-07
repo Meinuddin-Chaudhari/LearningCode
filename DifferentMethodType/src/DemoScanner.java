@@ -21,6 +21,7 @@ public class DemoScanner {
        System.out.println("Your MobileNo is :"+mobileno);
        System.out.println("Your MobileNo is :"+age);
        System.out.println("Your MobileNo is :"+gender);
+
 	}
 
 }
